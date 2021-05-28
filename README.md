@@ -19,5 +19,5 @@ My name is Kinkin, and i am an Web Developer specializing in Backend Development
 :chart_with_upwards_trend: Investing on CS:GO skins (very stonks) <br>
 
 ### Quotes:
-<p style="font-style:italic">I want</p>
+<p style="font-style:italic;">I want my smile and your happiness to overlap - Raviel Ivansia</p>
 
