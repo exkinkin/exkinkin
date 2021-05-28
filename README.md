@@ -1,7 +1,9 @@
 ### Welcome to ExKinkin's profile ^o^ 👋
 
-<
-**exkinkin/exkinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings :D
+My name is Kinkin, and i am an Web Developer specialising in Backend Development, and also a Freelance Programmer.
+
+I am an a
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![ExKinkin GitHub stats](https://github-readme-stats.vercel.app/api?username=exkinkin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exkinkin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
