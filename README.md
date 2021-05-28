@@ -12,8 +12,8 @@ My name is Kinkin, and i am an Web Developer specializing in Backend Development
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <br><br>
 
-### Hobbies:
-:bookmark: Anime / Manga / Light or Web Novels.
-:art: Asian Drama, especially K-Drama
-:chart_with_upwards_trend: Investing on CS:GO skins (very stonks)
+### Hobbies: <br>
+:bookmark: Anime / Manga / Light or Web Novels. <br>
+:art: Asian Drama, especially K-Drama <br>
+:chart_with_upwards_trend: Investing on CS:GO skins (very stonks) <br>
 
