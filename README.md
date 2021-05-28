@@ -17,4 +17,6 @@ My name is Kinkin, and i am an Web Developer specializing in Backend Development
 :bookmark: Anime / Manga / Light or Web Novels. <br>
 :art: Asian Drama, especially K-Drama <br>
 :chart_with_upwards_trend: Investing on CS:GO skins (very stonks) <br>
+tes
+tes
 
